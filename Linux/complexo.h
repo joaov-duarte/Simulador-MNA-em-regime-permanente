@@ -13,7 +13,7 @@ class Complexo
 		
 		//Overload
 		Complexo(double real, double imag);                //a + bi
-		Complexo(double modulo, double fase, char tipo);   //modulo, fase e não faço a minima ideia do que seja o tipo
+		Complexo(double modulo, double fase, char tipo);   //modulo
 		
 		//Valores
 		double real();

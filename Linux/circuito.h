@@ -25,5 +25,9 @@ class Circuito
 		//int stoi(std::string);
 		//Elemento* trataLinha(std::string);
 	public:
+		
 		Circuito(char*);
+		
+		
+		
 };
